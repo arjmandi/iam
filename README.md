@@ -9,16 +9,16 @@ I created this reposiroty to share the deck as a proposal and the reason I didn'
 
 # iam Network
 Decentralized mesh network of servers owned by people. Each server provides these services keeping the decentralized nature of the network:
-• User verification
-• Store the user ranking updates
-• Content sharing
-• P2P Chat
+- User verification
+- Store the user ranking updates
+- Content sharing
+- P2P Chat
 
 People join this network using their voice. They'll have a unique account and they can also trust that everybody else on the network owns "just one account" and no one is a bot.
 Features:
-• Put comment on every URL through a chrome extension
-• Using iam to login to other services
-• Encrypted chat
+- Put comment on every URL through a chrome extension
+- Using iam to login to other services
+- Encrypted chat
 
 For a more detailed description please head to the wiki: 
 https://github.com/arjmandi/iam/wiki
