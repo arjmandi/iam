@@ -33,3 +33,10 @@ https://github.com/arjmandi/iam/wiki
 * iam should have its own browser. it should be browser. can be forked from chromium but the main page will divide in two section to see the content alongside the comments 
 * China market is a big potential for am because iam provides better access to information and limitations from China government is an opportunity for user adoption. 
 * There maybe a possibility to create variable length hashes using speaker verification algorithm so that ASIC miners won't be able to mine huge amount of am Network rewards in bulk, they'll get slower in mining and the am Network will be more reliable. This approach can be also open-sourced to be used in other crypto networks.
+
+> 
+> De-organize the world's information and make it "really" accessible for every one[^1]
+> 
+
+
+[^1]: if it's organized, who's going to organize it?
