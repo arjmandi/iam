@@ -1,5 +1,5 @@
 # iam
-## A network based on genuine users and access to genuine content
+### A network based on genuine users and access to genuine content
 
 Main goal of iam was to build a self-sustained network with no central entity where everyone has "one and only one account" and each account has a rank score.
 
@@ -7,7 +7,7 @@ Research and development on iam started on the summer of 2018 and on July 2019 i
 
 I created this reposiroty to share the deck as a proposal and the reason I didn't publish it on Scribd or Google Slides is to have a place where the ideas can start to form a new codebase. 
 
-# iam Network
+## iam Network
 Decentralized mesh network of servers owned by people. Each server provides these services keeping the decentralized nature of the network:
 - User verification
 - Store the user ranking updates
@@ -23,7 +23,7 @@ Features:
 For a more detailed description please head to the wiki: 
 https://github.com/arjmandi/iam/wiki
 
-# Vision
+## Vision
 
 * Al companies are trying to win the Turing test, where Al is indistinguishable from human in conversation. When that happens, having a network of real humans will be handy!
 * iam Network requires a unique type of search engine:
@@ -33,10 +33,10 @@ https://github.com/arjmandi/iam/wiki
 * iam should have its own browser. it should be browser. can be forked from chromium but the main page will divide in two section to see the content alongside the comments 
 * China market is a big potential for am because iam provides better access to information and limitations from China government is an opportunity for user adoption. 
 * There maybe a possibility to create variable length hashes using speaker verification algorithm so that ASIC miners won't be able to mine huge amount of am Network rewards in bulk, they'll get slower in mining and the am Network will be more reliable. This approach can be also open-sourced to be used in other crypto networks.
-
-> 
-> De-organize the world's information and make it "really" accessible for every one[^1]
-> 
-
+---
+ 
+*De-organize the world's information and make it "really" accessible for every one[^1]*
+ 
+---
 
 [^1]: if it's organized, who's going to organize it?
