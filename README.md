@@ -23,7 +23,7 @@ Features:
 For a more detailed description please head to the wiki: 
 https://github.com/arjmandi/iam/wiki
 
-#Vision
+# Vision
 
 - Al companies are trying to win the Turing test, where Al is indistinguishable from human in conversation. When that happens, having a network of real humans will be handy!
 - iam Network requires a unique type of search engine:
